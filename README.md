@@ -46,6 +46,18 @@
 |  [Simple Calculator](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/simple_calculator.py)  | - Ask for two numbers and an operator (+, -,*, /, **  ).<br>    <br>- Use `if` to perform the calculation. | simple_calculator.py   |      N/A       |
  
 ---
+
+## Requirements :
+- ✅ Must Know how to use IDEs (Example VS Code,PyCharm,Sublime Text,Zed Etc)
+- ✅ Learn print(), F-strings, Variables, Data types, lower()
+- ✅ Learn Logical Operations
+- ✅ Learn if-else-elif statements
+- ✅ Learn input() function
+- ✅ Learn Looping, While Loops
+- ✅ Basic Arithmetic Operations
+- ✅ Learn Nested if-else-elif statements
+- ✅ Learn "and" "or" "not" conditions
+- ✅ Learn integer,float,Strings, and Boolean Expressions
 ### Tips :
 - ✅ Make a Dump folder that can be used to test small code
 - ✅ Make a Test Folder for Testing the Project and then finally add the complete code on outside this folders
@@ -61,5 +73,5 @@
 - [ ] Add more Links
 
 ## 📦License :
-This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
+#### This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
 
