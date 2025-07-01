@@ -1,8 +1,6 @@
 # extreme-beginner-python-projects
 <a id="readme-top"></a>
 
-![GitHub forks](https://img.shields.io/github/forks/Mr-DS-ML-85/extreme-beginner-python-projects?color=blue)
-
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -27,3 +25,6 @@
     <br />
   </p>
 </div>
+
+[forks-shield]:https://img.shields.io/github/forks/Mr-DS-ML-85/extreme-beginner-python-projects
+[forks-url]:https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/network/members
