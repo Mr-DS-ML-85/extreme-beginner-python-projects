@@ -1,0 +1,1 @@
+print("Which Calculation \n1.(+)\n2.(-)\n3.(x)\n4.(÷)\n5.(^)\nEnter:")
