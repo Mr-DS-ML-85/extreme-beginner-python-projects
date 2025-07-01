@@ -26,5 +26,11 @@
   </p>
 </div>
 
-[forks-shield]:https://img.shields.io/github/forks/Mr-DS-ML-85/extreme-beginner-python-projects
+[forks-shield]:https://img.shields.io/github/forks/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
 [forks-url]:https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
+[stars-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
+[issues-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/issues
+[license-shield]: https://img.shields.io/github/license/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
+[license-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/LICENSE
