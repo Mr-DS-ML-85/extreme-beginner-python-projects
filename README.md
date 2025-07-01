@@ -75,13 +75,16 @@
  - ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
  - ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
  - ### ✅ [Roadmap](https://roadmap.sh/python)
- - ### ✅ Most Popular AI (Example Chatgpt,Gemini,Claude,Grok,DeepSeek,Perplexity,QWEN,GITHUB Copilot)
+ - ### ✅ Most Popular AI Tools (Example Chatgpt,Gemini,Claude,Grok,DeepSeek,Perplexity,QWEN,GITHUB Copilot)
  - ### ✅ [Stackoverflow](https://stackoverflow.com)
  - ### ✅ [Reddit](https://www.reddit.com/r/Python/)
 
 ## Future Plans
 - [ ] Add More Projects
 - [ ] Add more Links
+
+## Warning⚠️:
+### At 1st try yourself and if you are not able to do that project then open the solution code and don't open the code before completing your projects.
 
 ## 📦License :
 #### This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
