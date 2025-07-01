@@ -46,6 +46,8 @@
 |  Simple Calculator  | - Ask for two numbers and an operator (+, -,*, /, **  ).<br>    <br>- Use `if` to perform the calculation. | simple_calculator.py   |      N/A       |
  
 ---
-
+### Tips :
+- ✅ Make a Dump folder that can be used to test small code
+- ✅ Make a Test Folder for Testing the Project and then finally add the complete code on outside this folders
 
 
