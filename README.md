@@ -61,5 +61,5 @@
 - [ ] Add more Links
 
 ## 📦License :
-This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE)
+This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
 
