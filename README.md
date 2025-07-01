@@ -1,4 +1,4 @@
-# extreme-beginner-python-projects
+# 🎯🛠️📝Best Beginner Python Projects
 <a id="readme-top"></a>
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
