@@ -50,4 +50,16 @@
 - ✅ Make a Dump folder that can be used to test small code
 - ✅ Make a Test Folder for Testing the Project and then finally add the complete code on outside this folders
 
+ 
+## Help
+ - ### ✅ [Youtube](https://youtu.be/eWRfhZUzrAc?si=gDYZU964tjfJwd6F)
+ - ###  ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
+ - ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
+ - ### ✅ [Roadmap](https://roadmap.sh/python)
+## Future Plans
+- [ ] Add More Projects
+- [ ] Add more Links
+
+## 📦License :
+This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE)
 
