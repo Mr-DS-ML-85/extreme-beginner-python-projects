@@ -52,6 +52,7 @@
 - 👆🖱️Right Click On the Ziped folder
 - 👆 Click "Show More options"
 - 🖱️ Click open with Example VS Code, PyCharm, Sublime, Zed 
+
 ## Requirements :
 - ✅ Must Know how to use IDEs (Example VS Code,PyCharm,Sublime Text,Zed Etc)
 - ✅ Learn print(), F-strings, Variables, Data types, lower()
@@ -71,9 +72,13 @@
  
 ## Help
  - ### ✅ [Youtube](https://youtu.be/eWRfhZUzrAc?si=gDYZU964tjfJwd6F)
- - ###  ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
+ - ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
  - ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
  - ### ✅ [Roadmap](https://roadmap.sh/python)
+ - ### ✅ Most Popular AI (Example Chatgpt,Gemini,Claude,Grok,DeepSeek,Perplexity,QWEN,GITHUB Copilot)
+ - ### ✅ [Stackoverflow](https://stackoverflow.com)
+ - ### ✅ [Reddit](https://www.reddit.com/r/Python/)
+
 ## Future Plans
 - [ ] Add More Projects
 - [ ] Add more Links
