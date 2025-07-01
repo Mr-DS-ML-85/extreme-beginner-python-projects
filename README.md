@@ -46,7 +46,12 @@
 |  [Simple Calculator](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/simple_calculator.py)  | - Ask for two numbers and an operator (+, -,*, /, **  ).<br>    <br>- Use `if` to perform the calculation. | simple_calculator.py   |      N/A       |
  
 ---
-
+## How to Download :
+- ⬇️Download Zip from Releases
+- 🖇️ Unzip it
+- 👆🖱️Right Click On the Ziped folder
+- 👆 Click "Show More options"
+- 🖱️ Click open with Example VS Code, PyCharm, Sublime, Zed 
 ## Requirements :
 - ✅ Must Know how to use IDEs (Example VS Code,PyCharm,Sublime Text,Zed Etc)
 - ✅ Learn print(), F-strings, Variables, Data types, lower()
@@ -58,6 +63,7 @@
 - ✅ Learn Nested if-else-elif statements
 - ✅ Learn "and" "or" "not" conditions
 - ✅ Learn integer,float,Strings, and Boolean Expressions
+
 ### Tips :
 - ✅ Make a Dump folder that can be used to test small code
 - ✅ Make a Test Folder for Testing the Project and then finally add the complete code on outside this folders
