@@ -44,7 +44,7 @@
 |  Fake Login System  |           Ask for username and password.<br>Use `if` to check if they match your stored values..           | fake_login_system.py   |      N/A       |
 |   Number Guessing   |       Ask the user to guess a number.<br>    <br>Use `if` to say “too high” / “too low” / “correct”.       | number_guessing.py     |      N/A       |
 |  Simple Calculator  | - Ask for two numbers and an operator (+, -,*, /, **  ).<br>    <br>- Use `if` to perform the calculation. | simple_calculator.py   |      N/A       |
-
+ 
 ---
 
 
