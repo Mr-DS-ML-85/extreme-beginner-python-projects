@@ -32,7 +32,7 @@
 [stars-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
 [issues-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/issues
-[license-shield]: https://img.shields.io/github/license/Mr-DS-ML-85/extreme-beginner-python-projects?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/license-Unlicense-blue?style=for-the-badge
 [license-url]: https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE
 
 ## 📁 Projects 
