@@ -87,5 +87,5 @@
 ### At 1st try yourself and if you are not able to do that project then open the solution code and don't open the code before completing your projects.
 
 ## 📦License :
-#### This Repo is under [MIT](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
+#### This Repo is under [Unlicense](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
 
