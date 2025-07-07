@@ -86,7 +86,7 @@
 <a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="20"></a>
 <a href="https://mistral.ai/"><img src="assets/mistrala.png" height="20"></a>
 <a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="20"></a>
-<a href="https://qwen.aliyun.com/"><img src="assets/qwen.png" height="20"></a>
+<a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="20"></a>
 <a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="20"></a>
 
 
