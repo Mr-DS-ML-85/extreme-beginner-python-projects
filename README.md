@@ -17,7 +17,7 @@
   </a>
   <h3 align="center">Beginner Projects</h3>
   <p align="center">
-    A free repo for beginner python projects
+    This repo contains python projects for absolute beginners
     <br /><strong>Join our <a href="https://discord.gg/BpUWfnYW">Discord server</a> for help, collaborate, and talk about coding ,software, tech, cybersecurity, AI/ML/DL and more!</strong>
     <br />
     <strong> This is a newly created Discord Server </strong>
@@ -75,16 +75,32 @@
  - ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
  - ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
  - ### ✅ [Roadmap](https://roadmap.sh/python)
- - ### ✅ Most Popular AI Tools (Example Chatgpt,Gemini,Claude,Grok,DeepSeek,Perplexity,QWEN,GITHUB Copilot)
- - ### ✅ [Stackoverflow](https://stackoverflow.com)
- - ### ✅ [Reddit](https://www.reddit.com/r/Python/)
+ - ### ✅ Most Popular AI Tools
+
+   
+<a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="20"></a>
+<a href="https://gemini.google.com/"><img src="assets/gemini.png" height="20"></a>
+<a href="https://claude.ai/"><img src="assets/claude.png" height="20"></a>
+<a href="https://deepseek.com/"><img src="assets/deepseek.png" height="20"></a>
+<a href="https://x.ai/"><img src="assets/grok.png" height="20"></a>
+<a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="20"></a>
+<a href="https://mistral.ai/"><img src="assets/mistrala.png" height="20"></a>
+<a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="20"></a>
+<a href="https://qwen.aliyun.com/"><img src="assets/qwen.png" height="20"></a>
+<a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="20"></a>
+
+
+- ### ✅ [Stackoverflow](https://stackoverflow.com)
+- ### ✅ [Reddit](https://www.reddit.com/r/Python/)
 
 ## Future Plans
 - [ ] Add More Projects
 - [ ] Add more Links
 
 ## Warning⚠️:
-### At 1st try yourself and if you are not able to do that project then open the solution code and don't open the code before completing your projects.
+- ####  At 1st try yourself and if you are unable to do that project then open the solution code but don't open the code before completing your projects.
+- ####  If you want to be a real coder don't use AI for just copy and pasting the code. 
+- ####  Use it to ask questions, learn topics deeply and how to improve code using ai 
 
 ## 📦License :
 #### This Repo is under [Unlicense](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/LICENSE) License
