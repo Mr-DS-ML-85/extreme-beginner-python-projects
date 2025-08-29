@@ -49,7 +49,7 @@
 ## How to Download :
 - ⬇️Download Zip from [Releases](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/releases/tag/v1.0)
 - 🖇️ Unzip it
-- 👆🖱️Right Click On the Ziped folder
+- 👆🖱️Right Click On the Zipped folder
 - 👆 Click "Show More options"
 - 🖱️ Click open with Example VS Code, PyCharm, Sublime, Zed 
 
