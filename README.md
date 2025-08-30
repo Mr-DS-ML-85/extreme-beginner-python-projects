@@ -17,7 +17,7 @@
   </a>
   <h3 align="center">Beginner Projects</h3>
   <p align="center">
-    This repo contains python projects for absolute beginners
+    A curated collection of beginner-friendly Python projects designed to help newcomers practice and enhance their programming skills
     <br /><strong>Join our <a href="https://discord.gg/BpUWfnYW">Discord server</a> for help, collaborate, and talk about coding ,software, tech, cybersecurity, AI/ML/DL and more!</strong>
     <br />
     <strong> This is a newly created Discord Server </strong>
