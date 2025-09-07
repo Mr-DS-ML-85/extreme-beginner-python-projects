@@ -48,7 +48,7 @@
 
 ---
 ## How to Download :
-- ⬇️Download Zip from [Releases](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/releases/tag/v1.0)
+- ⬇️Download Zip from [Releases](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/releases)
 - 🖇️ Unzip it
 - 👆🖱️Right Click On the Zipped folder
 - 👆 Click "Show More options"
