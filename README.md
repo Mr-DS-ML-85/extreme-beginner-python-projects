@@ -55,16 +55,19 @@
 - 🖱️ Click open with Example VS Code, PyCharm, Sublime, Zed 
 
 ## Requirements :
-- ✅ Must Know how to use IDEs (Example VS Code,PyCharm,Sublime Text,Zed Etc)
-- ✅ Learn print(), F-strings, Variables, Data types, lower()
+- ✅ Must Know how to use IDEs (Example VS Code,PyCharm,Sublime Text,Zed etc)
+- ✅ Learn `print()`, F-strings, Variables, Data types, `lower()`,`upper()`,`title()`
 - ✅ Learn Logical Operations
-- ✅ Learn if-else-elif statements
-- ✅ Learn input() function
+- ✅ Learn `if-else-elif` statements
+- ✅ Learn `input()` function
 - ✅ Learn Looping, While Loops
 - ✅ Basic Arithmetic Operations
-- ✅ Learn Nested if-else-elif statements
-- ✅ Learn "and" "or" "not" conditions
-- ✅ Learn integer,float,Strings, and Boolean Expressions
+- ✅ Learn Nested `if-else-elif` statements
+- ✅ Learn `"and"` `"or"` "not" conditions
+- ✅ Learn Integer,Float,Strings, and Boolean Expressions
+- ✅ Learn `range()` function
+- ✅ Learn Python Standard Libraries
+- ✅ Learn `Try-Except` Blocks
 
 ### Tips :
 - ✅ Make a Dump folder that can be used to test small code
