@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Unlicense][license-shield]][license-url]
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -44,7 +44,8 @@
 |  [Fake Login System](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/fake_login_system.py)  |           Ask for username and password.<br>Use `if` to check if they match your stored values..           | fake_login_system.py   |      N/A       |
 |   [Number Guessing](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/number_guessing.py)   |       Ask the user to guess a number.<br>    <br>Use `if` to say “too high” / “too low” / “correct”.       | number_guessing.py     |      N/A       |
 |  [Simple Calculator](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/simple_calculator.py)  | - Ask for two numbers and an operator (+, -,*, /, **  ).<br>    <br>- Use `if` to perform the calculation. | simple_calculator.py   |      N/A       |
- 
+|  [Spikes](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/blob/main/projects/spikes.py)  | - Spikes is a Python console animation that creates a dynamic “spike” pattern using dashes `(-)`. | spikes.py   |      `time,sys`       |
+
 ---
 ## How to Download :
 - ⬇️Download Zip from [Releases](https://github.com/Mr-DS-ML-85/extreme-beginner-python-projects/releases/tag/v1.0)
