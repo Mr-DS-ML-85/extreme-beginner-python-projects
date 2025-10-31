@@ -68,6 +68,7 @@
 - ✅ Learn `range()` function
 - ✅ Learn Python Standard Libraries
 - ✅ Learn `Try-Except` Blocks
+- ✅ Learn `Dictionary,List` Data Structures
 
 ### Tips :
 - ✅ Make a Dump folder that can be used to test small code
