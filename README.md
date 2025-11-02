@@ -76,25 +76,26 @@
 
  
 ## Help
- - ### ✅ [Youtube](https://youtu.be/eWRfhZUzrAc?si=gDYZU964tjfJwd6F)
- - ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
- - ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
- - ### ✅ [Roadmap](https://roadmap.sh/python)
- - ### ✅ Most Popular AI Tools
+ - ### ✨🔥🔎 Most Popular AI Tools :
+| **🖼️ Logo name with clickable links 🔗**                                                                 | **🤖 Name of AI ✨** | **📜 About 🔎** |
+| -------------------------------------------------------------------------------------------------- | -------------- | --------- |
+| <a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40"></a>                   | **ChatGPT**        | A **conversational** AI chatbot developed by OpenAI. It is based on the **“Generative Pre-trained Transformer”** architecture and is trained to follow instructions, answer questions, generate text (essays, code, summaries) in a human-like manner.                                               |
+| <a href="https://gemini.google.com/"><img src="assets/gemini.png" height="40"></a>                  | **Gemini**         | A family of multimodal large-language models and a chatbot developed by **Google AI / Google DeepMind**. It is designed to process multiple modalities (text, image, audio, video, code) and run at different scales (Ultra, Pro, Nano).                                                         |
+| <a href="https://claude.ai/"><img src="assets/claude.png" height="40"></a>                          | **Claude**         | A family of large-language-model chatbots developed by **Anthropic**. It supports tasks like natural language understanding, summarization, code generation, dialog, and is trained with safety/ethical considerations (so-called **“constitutional AI”** methods).                                  |
+| <a href="https://deepseek.com/"><img src="assets/deepseek.png" height="40"></a>                     | **DeepSeek**       | A Chinese AI firm/model family offering large-language-model technology and chatbot services (open-weight models) from China. It is noted for providing inexpensive LLMs and surpassing most state of the art ai model in cost to efficiency ratio surpassing **OpenAI O1 Reasoning model** |
+| <a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="40"></a>              | **Perplexity**     | An AI-powered **“answer engine”** / search-plus-chatbot developed by **Perplexity AI, Inc..** It combines real-time web search with large-language-model generation to give users direct answers (with citations) rather than just a list of links.                                                  |
+| <a href="https://mistral.ai/"><img src="assets/mistrala.png" height="40"></a>                       | **Mistral**        | A French startup **(Mistral AI)** building both open-source and commercial large-language models. The name here refers to the company/model family rather than a single chatbot product.                                                                                                         |
+| <a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="40"></a>                 | **Meta AI Llama**  | **Meta Llama** (or “LLaMA” = Large Language Model Meta AI) is a family of foundation language models developed by **Meta AI (part of Meta Platforms)**.                                                                                                                                          |
+| <a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="40"></a>                         | **Qwen AI**        | A family of large-language models developed by **Alibaba Cloud** (China). The models span open-weight and commercial variants, and support a variety of modalities (text, vision, audio).                                                                                                        |
+| <a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="40"></a> | **Github Copilot** | An AI-coding assistant developed by **GitHub (in collaboration with OpenAI)**. It integrates into code editors/IDEs and helps programmers by suggesting code, completing functions, translating between languages, etc.                                                                          |
+| <a href="https://x.ai/"><img src="assets/grok.png" height="40"></a>                                 | **Grok AI**        | A chatbot/AI assistant developed by **xAI** (founded by Elon Musk). It incorporates real-time information access and advanced reasoning.                                                                                                                                                         |
+| <a href="https://agent.minimax.io/"><img src="assets/minimax-color.png" height="40"></a>            | **MiniMax Agent**  | **MiniMax-M2** is a large language model developed by MiniMax AI (a Chinese startup) that uses a **Mixture-of-Experts (MoE)** architecture to strike a balance between high capability and inference efficiency.                                                                                 |
 
-   
-  <a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40"></a>
-<a href="https://gemini.google.com/"><img src="assets/gemini.png" height="40"></a>
-<a href="https://claude.ai/"><img src="assets/claude.png" height="40"></a>
-<a href="https://deepseek.com/"><img src="assets/deepseek.png" height="40"></a>
-<a href="https://x.ai/"><img src="assets/grok.png" height="40"></a>
-<a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="40"></a>
-<a href="https://mistral.ai/"><img src="assets/mistrala.png" height="40"></a>
-<a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="40"></a>
-<a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="40"></a>
-<a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="40"></a>
-
-
+---
+- ### ✅ [Youtube](https://youtu.be/eWRfhZUzrAc?si=gDYZU964tjfJwd6F)
+- ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
+- ### ✅ [Tutorial online](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)
+- ### ✅ [Roadmap](https://roadmap.sh/python)
 - ### ✅ [Stackoverflow](https://stackoverflow.com)
 - ### ✅ [Reddit](https://www.reddit.com/r/Python/)
 
