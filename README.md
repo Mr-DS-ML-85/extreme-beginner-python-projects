@@ -83,16 +83,16 @@
  - ### ✅ Most Popular AI Tools
 
    
-<a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="20"></a>
-<a href="https://gemini.google.com/"><img src="assets/gemini.png" height="20"></a>
-<a href="https://claude.ai/"><img src="assets/claude.png" height="20"></a>
-<a href="https://deepseek.com/"><img src="assets/deepseek.png" height="20"></a>
-<a href="https://x.ai/"><img src="assets/grok.png" height="20"></a>
-<a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="20"></a>
-<a href="https://mistral.ai/"><img src="assets/mistrala.png" height="20"></a>
-<a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="20"></a>
-<a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="20"></a>
-<a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="20"></a>
+  <a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40"></a>
+<a href="https://gemini.google.com/"><img src="assets/gemini.png" height="40"></a>
+<a href="https://claude.ai/"><img src="assets/claude.png" height="40"></a>
+<a href="https://deepseek.com/"><img src="assets/deepseek.png" height="40"></a>
+<a href="https://x.ai/"><img src="assets/grok.png" height="40"></a>
+<a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="40"></a>
+<a href="https://mistral.ai/"><img src="assets/mistrala.png" height="40"></a>
+<a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="40"></a>
+<a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="40"></a>
+<a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="40"></a>
 
 
 - ### ✅ [Stackoverflow](https://stackoverflow.com)
