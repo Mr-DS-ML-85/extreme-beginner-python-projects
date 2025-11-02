@@ -77,9 +77,6 @@
  
 ## Help
  - ### ✨🔥🔎 Most Popular AI Tools :
-## Help
-### ✨🔥🔎 Most Popular AI Tools :
-
 | 🖼️ Logo name with clickable links 🔗 | 🤖 Name of AI ✨ | 📜 About 🔎 |
 | ---------------------------------- | -------------- | --------- |
 | <a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40"></a> | **ChatGPT** | A **conversational AI chatbot** developed by OpenAI. It is based on the **“Generative Pre-trained Transformer”** architecture and is trained to follow instructions, answer questions, and generate text (essays, code, summaries) in a human-like manner. |
