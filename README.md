@@ -77,20 +77,73 @@
  
 ## Help
  - ### ✨🔥🔎 Most Popular AI Tools :
-## ✨🔥🔎 Most Popular AI Tools
-| 🖼️ Logo name with clickable links 🔗 | 🤖 Name of AI ✨ | 📜 About 🔎 |
-| --- | --- | --- |
-| <a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40" alt="ChatGPT"></a> | **ChatGPT** | A conversational AI chatbot developed by **OpenAI**. Based on the **Generative Pre-trained Transformer** architecture, it can follow instructions, answer questions, and generate human-like text (essays, code, summaries, etc.). |
-| <a href="https://gemini.google.com/"><img src="assets/gemini.png" height="40" alt="Gemini"></a> | **Gemini** | Multimodal large-language-model family by **Google DeepMind**. Handles text, images, audio, video, and code; available in multiple versions (**Ultra**, **Pro**, **Nano**). |
-| <a href="https://claude.ai/"><img src="assets/claude.png" height="40" alt="Claude"></a> | **Claude** | Chatbot series by **Anthropic**, trained with **Constitutional AI** for safety and reliability. Excellent at reasoning, summarization, and programming tasks. |
-| <a href="https://deepseek.com/"><img src="assets/deepseek.png" height="40" alt="DeepSeek"></a> | **DeepSeek** | Chinese AI company providing open-weight and commercial **LLMs**. Known for high efficiency and strong performance-per-cost ratio, rivaling top global models. |
-| <a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="40" alt="Perplexity"></a> | **Perplexity** | An AI-powered **answer engine** that combines real-time web search with LLM responses, returning direct answers (with citations) instead of links. |
-| <a href="https://mistral.ai/"><img src="assets/mistrala.png" height="40" alt="Mistral"></a> | **Mistral** | French startup building open-source and commercial LLMs. Known for the **Mixtral-of-Experts** model offering efficient, high-quality generation. |
-| <a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="40" alt="Meta Llama"></a> | **Meta Llama** | **LLaMA (Large Language Model Meta AI)** is Meta’s family of foundation models for research and commercial use. |
-| <a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="40" alt="Qwen"></a> | **Qwen AI** | Developed by **Alibaba Cloud**, Qwen supports text, vision, and audio. Offers both open-source and enterprise variants. |
-| <a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="40" alt="GitHub Copilot"></a> | **GitHub Copilot** | AI coding assistant from **GitHub** (and **OpenAI**) that autocompletes code, generates functions, and explains snippets directly in your IDE. |
-| <a href="https://x.ai/"><img src="assets/grok.png" height="40" alt="Grok AI"></a> | **Grok AI** | Chatbot built by **xAI** (founded by **Elon Musk**). Offers real-time data access and humorous, context-aware responses. |
-| <a href="https://agent.minimax.io/"><img src="assets/minimax-color.png" height="40" alt="MiniMax Agent"></a> | **MiniMax Agent** | **MiniMax-M2**, developed by **MiniMax AI**, uses a **Mixture-of-Experts (MoE)** design for fast and efficient reasoning. |
+<table>
+  <thead>
+    <tr>
+      <th>🖼️ Logo name with clickable links 🔗</th>
+      <th>🤖 Name of AI ✨</th>
+      <th>📜 About 🔎</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://chat.openai.com/"><img src="assets/chatgpt.png" height="40"></a></td>
+      <td><strong>ChatGPT</strong></td>
+      <td>A <strong>conversational</strong> AI chatbot developed by OpenAI. It is based on the <strong>“Generative Pre-trained Transformer”</strong> architecture and is trained to follow instructions, answer questions, generate text (essays, code, summaries) in a human-like manner.</td>
+    </tr>
+    <tr>
+      <td><a href="https://gemini.google.com/"><img src="assets/gemini.png" height="40"></a></td>
+      <td><strong>Gemini</strong></td>
+      <td>A family of multimodal large-language models and a chatbot developed by <strong>Google AI / Google DeepMind</strong>. It is designed to process multiple modalities (text, image, audio, video, code) and run at different scales (Ultra, Pro, Nano).</td>
+    </tr>
+    <tr>
+      <td><a href="https://claude.ai/"><img src="assets/claude.png" height="40"></a></td>
+      <td><strong>Claude</strong></td>
+      <td>A family of large-language-model chatbots developed by <strong>Anthropic</strong>. It supports tasks like natural language understanding, summarization, code generation, dialog, and is trained with safety/ethical considerations (so-called <strong>“constitutional AI”</strong> methods).</td>
+    </tr>
+    <tr>
+      <td><a href="https://deepseek.com/"><img src="assets/deepseek.png" height="40"></a></td>
+      <td><strong>DeepSeek</strong></td>
+      <td>A Chinese AI firm/model family offering large-language-model technology and chatbot services (open-weight models) from China. It is noted for providing inexpensive LLMs and surpassing most state of the art ai model in cost to efficiency ratio surpassing <strong>OpenAI O1 Reasoning model</strong>.</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.perplexity.ai/"><img src="assets/perplexity.png" height="40"></a></td>
+      <td><strong>Perplexity</strong></td>
+      <td>An AI-powered <strong>“answer engine”</strong> / search-plus-chatbot developed by <strong>Perplexity AI, Inc..</strong> It combines real-time web search with large-language-model generation to give users direct answers (with citations) rather than just a list of links.</td>
+    </tr>
+    <tr>
+      <td><a href="https://mistral.ai/"><img src="assets/mistrala.png" height="40"></a></td>
+      <td><strong>Mistral</strong></td>
+      <td>A French startup <strong>(Mistral AI)</strong> building both open-source and commercial large-language models. The name here refers to the company/model family rather than a single chatbot product.</td>
+    </tr>
+    <tr>
+      <td><a href="https://ai.meta.com/llama/"><img src="assets/llamaai.png" height="40"></a></td>
+      <td><strong>Meta AI Llama</strong></td>
+      <td><strong>Meta Llama</strong> (or “LLaMA” = Large Language Model Meta AI) is a family of foundation language models developed by <strong>Meta AI (part of Meta Platforms)</strong>.</td>
+    </tr>
+    <tr>
+      <td><a href="https://chat.qwen.ai/"><img src="assets/qwen.png" height="40"></a></td>
+      <td><strong>Qwen AI</strong></td>
+      <td>A family of large-language models developed by <strong>Alibaba Cloud</strong> (China). The models span open-weight and commercial variants, and support a variety of modalities (text, vision, audio).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/features/copilot"><img src="assets/github-copilot.png" height="40"></a></td>
+      <td><strong>Github Copilot</strong></td>
+      <td>An AI-coding assistant developed by <strong>GitHub (in collaboration with OpenAI)</strong>. It integrates into code editors/IDEs and helps programmers by suggesting code, completing functions, translating between languages, etc.</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.ai/"><img src="assets/grok.png" height="40"></a></td>
+      <td><strong>Grok AI</strong></td>
+      <td>A chatbot/AI assistant developed by <strong>xAI</strong> (founded by Elon Musk). It incorporates real-time information access and advanced reasoning.</td>
+    </tr>
+    <tr>
+      <td><a href="https://agent.minimax.io/"><img src="assets/minimax-color.png" height="40"></a></td>
+      <td><strong>MiniMax Agent</strong></td>
+      <td><strong>MiniMax-M2</strong> is a large language model developed by MiniMax AI (a Chinese startup) that uses a <strong>Mixture-of-Experts (MoE)</strong> architecture to strike a balance between high capability and inference efficiency.</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 - ### ✅ [Youtube](https://youtu.be/eWRfhZUzrAc?si=gDYZU964tjfJwd6F)
 - ### ✅ [Books](https://nostarch.com/python-crash-course-3rd-edition)
